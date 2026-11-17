@@ -81,7 +81,7 @@ Focused on fullstack development and interactive web experiences.
   </a>
   &nbsp;&nbsp;
   <a href="mailto:siggebrandt@icloud.com">
-    <img height="52" src="https://img.shields.io/badge/Send_me-an_Email-E11D48?style=for-the-badge&labelColor=9F1239" alt="Send me an email" />
+    <img height="52" src="https://img.shields.io/badge/Send_me-an_Email-059669?style=for-the-badge&labelColor=047857" alt="Send me an email" />
   </a>
 </p>
 
