@@ -39,23 +39,18 @@ Focused on fullstack development and interactive web experiences.
 
 ---
 
-### GitHub Stats & Trophies
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siggebrandt&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=siggebrandt&show_icons=true&hide_border=true&title_color=E11D48&icon_color=E11D48&text_color=18181B&bg_color=FFFFFF" alt="GitHub Stats" />
+  &nbsp;
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=siggebrandt&layout=compact&langs_count=4&hide_border=true&title_color=E11D48&text_color=18181B&bg_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siggebrandt&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siggebrandt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=siggebrandt&theme=meta_light&hide_border=true" alt="GitHub Streak" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=siggebrandt&hide_border=true&background=FFFFFF&stroke=E4E4E7&ring=E11D48&fire=E11D48&currStreakNum=E11D48&currStreakLabel=E11D48&sideNums=18181B&sideLabels=18181B&dates=71717A" alt="GitHub Streak" />
 </div>
 
 ---
