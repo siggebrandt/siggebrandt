@@ -26,14 +26,26 @@ Focused on fullstack development and interactive web experiences.
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3&logoColor=white)
 
-#### Backend
+#### Backend & Languages
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-#### Tools
+#### Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDMuNzkgMiA2djEyYzAgMi4yMSA0LjQ4IDQgMTAgNHMxMC0xLjc5IDEwLTRWNmMwLTIuMjEtNC40OC00LTEwLTR6bTAgMmM0LjQyIDAgOCAxLjEyIDggMnMtMy41OCAyLTggMi04LTEuMTItOC0yIDMuNTgtMiA4LTJ6bTAgMTZjLTQuNDIgMC04LTEuMTItOC0ydi0zLjE3YzEuNzkgMS4wNiA0LjcxIDEuNjcgOCAxLjY3czYuMjEtLjYxIDgtMS42N1YxOGMwIC44OC0zLjU4IDItOCAyem0wLTVjLTQuNDIgMC04LTEuMTItOC0yVjkuODNjMS43OSAxLjA2IDQuNzEgMS42NyA4IDEuNjdzNi4yMS0uNjEgOC0xLjY3VjEzYzAgLjg4LTMuNTggMi04IDJ6Ii8+PC9zdmc+)
+
+#### Hosting & Cloud
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+#### Tools & Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
