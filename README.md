@@ -55,7 +55,7 @@ Focused on fullstack development and interactive web experiences.
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=siggebrandt&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=siggebrandt&theme=meta_light&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
