@@ -76,13 +76,15 @@ Focused on fullstack development and interactive web experiences.
 ### Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/siggebrandt/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/siggebrandt/">
+    <img height="52" src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://github.com/siggebrandt" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="mailto:siggebrandt@icloud.com">
+    <img height="52" src="https://img.shields.io/badge/Send_me-an_Email-E11D48?style=for-the-badge&labelColor=9F1239" alt="Send me an email" />
   </a>
-  <a href="https://siggebrandt.github.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="30" width="40" />
-  </a>
+</p>
+
+<p align="center">
+  <sub>Open to internships and collaboration · Scandinavia</sub>
 </p>
