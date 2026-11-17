@@ -86,5 +86,5 @@ Focused on fullstack development and interactive web experiences.
 </p>
 
 <p align="center">
-  <sub>Open to internships and collaboration · Scandinavia</sub>
+  <sub>Open to internships and collaboration · Sweden, Scandinavia</sub>
 </p>
