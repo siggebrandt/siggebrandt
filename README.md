@@ -9,7 +9,8 @@ Focused on fullstack development and interactive web experiences.
 
 ### Currently
 
-- Building [StadiumSoundscape](https://github.com/siggebrandt/StadiumSoundscape) and [csn-fribelopp-tracker](https://github.com/siggebrandt/csn-fribelopp-tracker)  
+- Building [StadiumSoundscape](https://github.com/siggebrandt/StadiumSoundscape) and [csn-fribelopp-tracker](https://github.com/siggebrandt/csn-fribelopp-tracker)
+- Studying Architecture and Design Patterns
 - Diving deeper into React and SQL
 
 ---
